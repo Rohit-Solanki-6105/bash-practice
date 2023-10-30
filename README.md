@@ -1,2 +1,2 @@
-# bash-practice
-Bash Script practice
+# Shell-practice
+Shell Script practice
